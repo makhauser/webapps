@@ -1,0 +1,22 @@
+{
+    "version": "0.5",
+    "name": "LDHypot",
+    "description": "Let's count the third side of the triangle",
+    "developer":
+        {
+            "name": "LDDT!UA",
+            "url": "http://litediary.com"
+            },
+    "launch_path": "/index.html",
+    "icons":
+        {
+          "32": "/icon/img_32.png",
+          "60": "/icon/img_60.png",
+          "64": "/icon/img_64.png",
+          "90": "/icon/img_90.png",
+          "128": "/icon/img_128.png",
+          "256": "/icon/img_256.png"
+            },
+     "type": "privileged",
+ "default_locale": "en"
+  }
